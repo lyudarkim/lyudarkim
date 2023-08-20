@@ -6,7 +6,7 @@
 - 🌱 Learning React Native and TypeScript
 - 🐍 Proficient in Python, with experience in JavaScript and Java
 - 👯 Open to collaborating on website and mobile app development projects
-- 📫 Connect with me on [LinkedIn](www.linkedin.com/in/lyuda-kim)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/lyuda-kim)
 - 🔨 Fun fact: I'm a jeweler and metalsmith, working primarily in silver
 - 💬 Ask me about soldering, stone setting, and other detail-oriented tasks
 
